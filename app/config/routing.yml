@@ -1,0 +1,3 @@
+feedme:
+    resource: "@FeedmeApiBundle/Resources/config/routing.yml"
+    prefix:   /

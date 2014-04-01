@@ -1,0 +1,3 @@
+recipes:
+  path: /recipes/recipes.json
+  defaults: { _controller: FeedmeApiBundle:Recipe:list }
